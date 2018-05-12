@@ -1,0 +1,37 @@
+_repo: The-Overall-Boys-in-Switzerland_45155
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Melcher, Bertha Corbett
+    aliases:
+    - Corbett, Bertha L.
+    - Corbett, Bertha
+    gutenberg_agent_id: '43127'
+    url: http://www.gutenberg.org/2009/agents/43127
+covers:
+- cover_type: archival
+  image_path: 45155-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grover, Eulalie Osgood
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '26626'
+    url: http://www.gutenberg.org/2009/agents/26626
+description: ''
+gutenberg_issued: '2014-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Tell, Wilhelm -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+title: The Overall Boys in Switzerland
+url: http://www.gutenberg.org/ebooks/45155
