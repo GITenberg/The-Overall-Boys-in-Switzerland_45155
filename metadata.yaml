@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '26626'
     url: http://www.gutenberg.org/2009/agents/26626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45155#The-Overall-Boys-in-Switzerland
 gutenberg_issued: '2014-03-17'
 gutenberg_type: Text
 identifiers:
